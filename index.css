@@ -1,0 +1,14 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:Poppins,sans-serif;}
+body{background:#0d0d0d;color:#e4e4e4;}
+section{padding:80px 10%;}
+h1,h2,h3{color:#fff;}
+.navbar{position:fixed;top:0;width:100%;padding:20px 10%;display:flex;justify-content:space-between;background:#0d0d0df0;backdrop-filter:blur(5px);z-index:1000;}
+.navbar a{color:#e4e4e4;margin-left:20px;text-decoration:none;font-weight:500;}
+.hero{display:flex;justify-content:space-between;align-items:center;min-height:100vh;}
+.hero .left{max-width:50%;}
+.hero h1{font-size:3rem;margin-bottom:15px;}
+.hero span{color:#00bfff;}
+.button{padding:12px 25px;border-radius:6px;margin-top:20px;background:#00bfff;color:#000;font-weight:bold;text-decoration:none;}
+.card{background:#1a1a1a;padding:20px;border-radius:10px;margin-bottom:20px;border:1px solid #333;}
+.skill-box{background:#1a1a1a;padding:10px 20px;border-radius:8px;margin:10px;border:1px solid #333;display:inline-block;}
+.contact a{color:#00bfff;}
