@@ -25,8 +25,8 @@ export default function Contact() {
             </a>
           </p>
           <p className="contact-note">
-            Feel free to reach out for internship opportunities, full-stack roles, or
-            collaboration on interesting MERN and backend-heavy projects.
+            Open for Entry-Level opportunities, full-stack roles, or
+            collaboration on interesting Java and backend-heavy projects.
           </p>
         </div>
       </div>
