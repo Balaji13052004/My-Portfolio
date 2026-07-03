@@ -7,9 +7,9 @@ export default function Hero() {
         <h1>
           Hi, I'm <span>Chinthakayala Balaji</span>
         </h1>
-        <h2>MERN Stack Developer • Full-Stack Engineer</h2>
+        <h2>Java Developer • Full-Stack Engineer</h2>
         <p>
-          I build scalable, user-centric web applications using the MERN stack and
+          I build scalable, Strong robust Application using the Java Fullstack and
           solve complex problems with clean, optimized solutions in data structures
           and algorithms.
         </p>
@@ -18,7 +18,7 @@ export default function Hero() {
             className="btn-primary"
             onClick={() => document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" })}
           >
-            Hire Me
+          Ready to Work
           </button>
           <button
             className="btn-outline"
@@ -28,15 +28,14 @@ export default function Hero() {
           </button>
         </div>
         <p className="hero-tagline">
-          Bachelor of Technology  CSE   - Sri Venkateswara College of Engineering - 73%
+          Bachelor of Technology  CSE   - Sri Venkateswara College of Engineering - 72.1%
         </p>
       </div>
       <div className="hero-right">
         <p className="hero-right-title">Currently focused on</p>
-        <p className="hero-right-highlight">MERN Stack & DATA ANALYTICS</p>
+        <p className="hero-right-highlight">Java Fullstack Application</p>
         <p className="hero-right-subtext">
-          500+ DSA problems solved across LeetCode and GeeksforGeeks. Ranked among
-          the top competitive coders while building production-ready full stack apps.
+          Building scalable Java applications with Spring Boot, Hibernate, REST APIs, SQL, and modern web technologies. Passionate about backend development, clean code, and solving real-world software engineering problems.
         </p>
       </div>
     </section>
