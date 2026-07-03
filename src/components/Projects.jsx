@@ -9,21 +9,25 @@ export default function Projects() {
       <div className="card-grid">
         <div className="card">
           <h3>DocSpot – Appointment Booking Platform</h3>
-          <p className="card-meta">MERN Stack • Jul 2025 – Sep 2025</p>
+          <p className="card-meta">Java Full Stack • Jul 2025 – Sep 2025</p>
           <p>
             A scalable consultation booking platform with dedicated interfaces for users,
             doctors, and admins.
           </p>
           <ul className="card-list">
-            <li>Designed scalable MongoDB schema for doctors, users, and appointments.</li>
-            <li>Built RESTful APIs for registration, authentication, listings, and bookings.</li>
-            <li>Implemented role-based access control and admin approval for doctors.</li>
-            <li>Integrated notification logic for appointment reminders.</li>
+            <li>Built 8+ REST APIs using Springboot and Hibernate for user, doctor, and admin management.
+</li>
+            <li>Implemented role-based access control and admin approval workflows.
+</li>
+            <li>Designed scalable backend architecture for future feature integrations.
+</li>
+            <li>Worked on database design, CRUD operations, and backend development.
+</li>
           </ul>
         </div>
 
         <div className="card">
-          <h3>ATM System – Console Application</h3>
+          <h3>ATM System – Console Applicatio</h3>
           <p className="card-meta">C Language • Feb 2024 – Apr 2024</p>
           <p>
             A console-based ATM simulation implementing core banking operations and secure
