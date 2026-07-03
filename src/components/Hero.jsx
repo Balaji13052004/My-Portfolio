@@ -27,7 +27,7 @@ export default function Hero() {
             View Projects
           </button>
           <a
-          href="/Balaji Resume (1).pdf"
+          href="/Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           style={{ textDecoration: "none" }}
