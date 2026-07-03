@@ -8,23 +8,18 @@ export default function Achievements() {
 
       <div className="card-grid">
         <div className="card">
-          <h3>Competitive Programming & DSA</h3>
+          <h3>Courses</h3>
           <ul className="card-list">
-            <li>Solved 500+ DSA problems across LeetCode and GeeksforGeeks.</li>
-            <li>Ranked among the top 1.4% of coders on LeetCode.</li>
+            <li>Completed Foundational Course on Aritifical Intelligence at Infosys Springboard</li>
+            <li>Completed Java Full Stack internship from Smartbridge Edu-Private Limited </li>
           </ul>
         </div>
 
         <div className="card">
-          <h3>Technical Festivals & Events</h3>
+          <h3>Technical Events</h3>
           <ul className="card-list">
             <li>
-              Contributed as a Full Stack Web Developer for Vulcanzy’23, TechKriya’24, and
-              Vulcanzy’24.
-            </li>
-            <li>
-              Helped facilitate registrations for 2,000+ students across 100+ events for
-              multiple colleges.
+              Contributed as a Backend Developer in Team Projects at College level Competition.
             </li>
           </ul>
         </div>
@@ -32,7 +27,9 @@ export default function Achievements() {
         <div className="card">
           <h3>Certifications</h3>
           <ul className="card-list">
-            <li>Completed the "Artificial Intelligence Foundation" course by Infosys Springboard.</li>
+            <li>Certified AI expert from Infosys</li>
+            <li> Certified IBM Skillsbuilder On GeneraƟve AI 
+</li>
           </ul>
         </div>
       </div>
