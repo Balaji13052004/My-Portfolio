@@ -33,7 +33,7 @@ export default function Hero() {
           style={{ textDecoration: "none" }}
            >
   <button className="btn-outline">
-    View Resume
+    My Resume
   </button>
 </a>
         </div>
