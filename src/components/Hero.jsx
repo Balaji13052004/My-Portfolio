@@ -26,6 +26,14 @@ export default function Hero() {
           >
             View Projects
           </button>
+          <a
+  href="/Balaji_Resume.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="resume-btn"
+>
+  📄 View Resume
+</a>
         </div>
         <p className="hero-tagline">
           Bachelor of Technology  CSE   - Sri Venkateswara College of Engineering - 72.1%
