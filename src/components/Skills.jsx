@@ -2,16 +2,16 @@ import React from "react";
 
 const skillGroups = [
   {
-    title: "Languages",
-    items: ["C++", "JavaScript", "Java", "C", "SQL"],
+    title: "Programming Languages",
+    items: [ "Java","SQL","JavaScript"],
   },
   {
     title: "Frameworks & Libraries",
-    items: ["ReactJS", "React Native", "Redux", "NodeJS", "ExpressJS", "Tailwind CSS"],
+    items: ["JDBC","Hibernate","Springboot","REST APIs"],
   },
   {
-    title: "Databases & Tools",
-    items: ["MongoDB", "MySQL", "PostgreSQL", "Prisma", "REST APIs", "Git", "Postman"],
+    title: "Frontend Technologies",
+    items: ["HTML5","CSS"],
   },
 ];
 
