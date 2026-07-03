@@ -30,9 +30,11 @@ export default function Hero() {
   href="/Balaji_Resume.pdf"
   target="_blank"
   rel="noopener noreferrer"
-  className="resume-btn"
+  style={{ textDecoration: "none" }}
 >
-  📄 View Resume
+  <button className="btn-outline">
+    View Resume
+  </button>
 </a>
         </div>
         <p className="hero-tagline">
