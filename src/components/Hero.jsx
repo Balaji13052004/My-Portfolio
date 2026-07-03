@@ -27,11 +27,11 @@ export default function Hero() {
             View Projects
           </button>
           <a
-  href="/Balaji_Resume.pdf"
-  target="_blank"
-  rel="noopener noreferrer"
-  style={{ textDecoration: "none" }}
->
+          href="/.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ textDecoration: "none" }}
+           >
   <button className="btn-outline">
     View Resume
   </button>
